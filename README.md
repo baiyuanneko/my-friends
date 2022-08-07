@@ -8,7 +8,7 @@
 
 ## 申请加入，修改或删除此列表中的内容
 
-* 方法一：修改在此仓库提交 Pull Request
+* 方法一：修改```linklist.json```并在此仓库提交 Pull Request
 * 方法二：在[友链页面](https://nekomoe.xyz/index.html?type=internal&function=friendbook)评论区留言
 * 方法三：在社交网络联系我，我所使用的社交网络可在[我的“关于”页面](https://i.nekomoe.xyz/)中查看
 
