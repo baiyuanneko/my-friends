@@ -1,6 +1,6 @@
 # my-friends
 
-这里是[白羊李志远のBlog](https://nekomoe.xyz)的[友链列表](https://nekomoe.xyz/index.html?type=internal&function=friendbook)。
+这里是[柏园猫のBlog](https://nekomoe.xyz)的[友链列表](https://nekomoe.xyz/index.html?type=internal&function=friendbook)。
 
 ## 查看当前友链列表
 * [直接进入友链页面查看](https://nekomoe.xyz/index.html?type=internal&function=friendbook)
@@ -22,8 +22,8 @@
 
 ### 我的友链信息
 
-- 博主：```白羊李志远```
-- 站点名称：`白羊李志远のBlog`
+- 博主：```柏园猫```
+- 站点名称：`柏园猫のBlog`
 - 地址：[https://nekomoe.xyz](https://nekomoe.xyz)
 - 描述：人与人虽然相距遥远，但又彼此相依
 - 图标：[https://nekomoe.xyz/favicon.ico](https://nekomoe.xyz/favicon.ico)
