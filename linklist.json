@@ -173,6 +173,12 @@
             "链接": "http://www.wenhd.site/",
             "简介": " 忆我所想，畅我所言...",
             "图标": "https://s2.loli.net/2022/02/13/kr18YuU2TwP5NfJ.png"
+        {
+            "名称": "dabao1955的小站",
+            "链接": "https://dpkg123.site/",
+            "简介": "sudo dpkg --force-all -r dpkg || exit 1",
+            "图标": "https://dpkg123.site/favicon.jpg"
+        },
         }
     ]
 }
