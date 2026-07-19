@@ -1,26 +1,26 @@
 # my-friends
 
-这里是[柏园猫のBlog](https://nekomoe.xyz)的[友链列表](https://nekomoe.xyz/index.html?type=internal&function=friendbook)。
+本仓库用于维护 [柏园猫のBlog](https://nekomoe.xyz) 以及 [柏园猫个人主页](https://intro.byn.moe) 的 [友人列表 (My Friends)](https://nekomoe.xyz/index.html?type=internal&function=friendbook) 页面。
 
-## 查看当前友链列表
-* [直接进入友链页面查看](https://nekomoe.xyz/index.html?type=internal&function=friendbook)
-* [获取 JSON 源文件](https://friends.nekomoe.xyz/linklist.json)
+## 程序化调用
+* [获取实时 JSON 源文件](https://friends.nekomoe.xyz/linklist.json)
 
-## 申请加入，修改或删除此列表中的内容
+## 如何加入此友人列表（或申请修改、删除等）？
 
-* 方法一：修改```linklist.json```并在此仓库提交 Pull Request
-* 方法二：在[友链页面](https://nekomoe.xyz/index.html?type=internal&function=friendbook)评论区留言
-* 方法三：在社交网络联系我，我所使用的社交网络可在[我的“关于”页面](https://i.nekomoe.xyz/)中查看
+### 建议的步骤
 
-### 要求
+1. 修改```linklist.json```并在此仓库提交 Pull Request
+2. 通过 [Telegram](https://t.me/baiyuanneko) 或 [邮件](mailto:baiyang-lzy@outlook.com) 等联系方式发送消息告知我，附带 PR 编号或链接。
 
-- 申请前需添加本站友链
-- 站点无大量广告性质内容
-- 站点图标需要使用 HTTPS，站点地址尽量使用 HTTPS
+### 替代步骤
 
-## 添加本站点友链
+如果您想要加入我的友人列表，但是受限于其他原因无法完成建议的步骤，也可直接通过 [Telegram](https://t.me/baiyuanneko) 或 [邮件](mailto:baiyang-lzy@outlook.com) 等联系方式告知我即可。
 
-### 我的友链信息
+### 注意事项
+
+尽管大多数时候同意，但本站保留不同意的权利。
+
+## 附录：“柏园猫のBlog” 网站信息
 
 - 博主：```柏园猫```
 - 站点名称：`柏园猫のBlog`
